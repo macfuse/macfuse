@@ -1,0 +1,6 @@
+[submodule "Library-2"]
+	path = Library-2
+	url = ../library.git
+[submodule "Framework"]
+	path = Framework
+	url = ../framework.git
