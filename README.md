@@ -6,7 +6,7 @@ macFUSE is a software package for macOS that lets non-privileged users create th
 About macFUSE
 -------------
 
-The latest version of macFUSE supports macOS 10.9 to macOS 13.
+The latest version of macFUSE supports macOS 10.9 to macOS 14.
 
 The software package provides multiple APIs for developing full-featured user space file systems. libfuse.dylib provides a superset of the standard Unix FUSE API. macFUSE.framework is a high-level Objective-C wrapper for the libfuse C API.
 
