@@ -14,7 +14,7 @@ Developers can create numerous types of file systems using the provided APIs, e.
 
 macFUSE file systems are regular applications (as opposed to kernel extensions). This means developers have as much flexibility and choice in programming tools, debuggers, and libraries as they have when developing regular application for macOS.
 
-For more information see https://macfuse.io and the macFUSE wiki.
+For more information see the [macFUSE website](https://macfuse.io), the official [macFUSE wiki](https://github.com/macfuse/macfuse/wiki) or the [community wiki](https://github.com/macfuse/community/wiki).
 
 License
 -------
